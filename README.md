@@ -1,4 +1,4 @@
-# Gridline Tic Tac Toe
+# ABB Assessment: Gridline Tic Tac Toe
 
 A browser-based Tic Tac Toe game with a React and TypeScript client and an ASP.NET Core API. The backend owns game state, move validation, the computer strategy, undo behavior, and session scoreboard.
 
