@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+:root { --ink: #202b24; --muted: #818981; --line: #dfe2db; --green: #3e7551; --coral: #d36e57; --display: 'Space Grotesk', 'Segoe UI', sans-serif; --mono: 'DM Mono', Consolas, monospace; font-family: var(--display); color: var(--ink); background: #f5f6f1; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-optical-sizing: auto; }
+* { box-sizing: border-box; }
+body { min-width: 320px; min-height: 100vh; margin: 0; background-image: linear-gradient(#e7e9e211 1px, transparent 1px), linear-gradient(90deg, #e7e9e211 1px, transparent 1px); background-size: 28px 28px; }
+button { font: inherit; }
+#root { min-height: 100vh; }
+::selection { color: white; background: #3e7551; }
